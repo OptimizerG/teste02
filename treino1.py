@@ -1,3 +1,5 @@
+# Raiz com biblioteca
+
 import math
 num = int(input('Dgiite um numero? '))
 raiz = math.sqrt(num)
